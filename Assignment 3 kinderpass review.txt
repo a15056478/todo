@@ -1,0 +1,4 @@
+1. KinderPass has great UI but, It takes time to fetch and display previous day's data, For that a good State management is required.
+2. Could not find out how to remove bookmarked articles.
+3. I we could track the activities of the user that would definitly help in future.
+4. We can use alarm reminder instead of just showing notifications.
